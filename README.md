@@ -33,3 +33,7 @@ Hugging Face Transformers
 
 Pyngrok
 
+<img width="1374" height="828" alt="Screenshot 2025-08-13 204843" src="https://github.com/user-attachments/assets/97d4c322-75b1-4758-a406-c8d55145e451" />
+<img width="1127" height="903" alt="Screenshot 2025-08-13 204648" src="https://github.com/user-attachments/assets/fd0e2873-ab1e-49a9-bef3-7a0bc79e4444" />
+
+
